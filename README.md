@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @THUNDER2804
-- 👀 I’m interested in Python-opencv-selenium-web automation,ROS,UAV
+- 👀 I’m interested in C++, Python-opencv-selenium-web automation, ROS, UAV
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on any thing interesting
 - 📫 How to reach me @ saikarthik2804@gmail.com
